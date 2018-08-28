@@ -1,14 +1,23 @@
 # LSUN
 分类及编号
 bedroom 0
+
 bridge 1
+
 church_outdoor 2
+
 classroom 3
+
 conference_room 4
+
 dining_room 5
+
 kitchen 6
+
 living_room 7
+
 restaurant 8
+
 tower 9
 
 Please check [LSUN webpage](http://www.yf.io/p/lsun) for more information about the dataset.
